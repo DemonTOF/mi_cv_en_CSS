@@ -69,6 +69,19 @@
     .perfil-info p {
         font-size: 14px;
     }
+
+    .main h2 {
+        font-size: 13px;
+    }
+
+    .main p, li {
+        font-size: 12px;
+    }
+
+    .main a{
+        flex-direction: column;
+        font-size: 11px;
+    }
 }
 
 /* Main*/
@@ -84,7 +97,7 @@
 /* Aside*/
 .aside {
     background-color:lightblue ;
-    width: 30%;
+    width: 40%;
     padding: 30px;
 }
 .contacto-info a {
@@ -115,7 +128,7 @@
 /* Section*/
 .section {
     background-color:#a8dbf7;
-    width: 70%;
+    width: 60%;
     padding: 30px;
     font-size: 20px;
 }
